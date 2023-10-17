@@ -1,0 +1,38 @@
+body{
+  background-color: green;
+  scroll-behavior: auto;
+}
+.row{
+  text-align: center;
+}
+.jumbotron{
+  text-align: center;
+}
+.footer{
+  background-color: saddlebrown;
+}
+ul #link1 a:hover{
+  color: goldenrod;
+  background-color: black;
+}
+ul #link2 a:hover{
+  color: #28C622;
+  background-color: #C62222;
+
+}
+ul #link3 a:hover{
+  color: aqua;
+  background-color: black;
+}
+ul #link4 a:hover{
+  color: black;
+  background-color: white;
+}
+ul #link5 a:hover{
+  color: #28C622;
+  background-color: aqua;
+}
+li a{
+  padding: 20%;
+  text-align: center;
+  border-radius: 12px;}
